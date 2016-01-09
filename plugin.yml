@@ -1,0 +1,11 @@
+name: KillAllInterface
+version: S_Ryan
+main: net.src_dev.killallinterface.KillAllInterface
+description: Creates an interface for a safer kill entities command.
+author: S_Ryan
+commands:
+  killallinterface:
+    description: Base for all KillAllInterface commands.
+    usage: /killallinterface <command>
+    aliases: []
+  
